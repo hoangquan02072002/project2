@@ -1,0 +1,3 @@
+﻿  lab2.cpp
+D:\hoc tap\huong doi tuong\lab2\lab2.cpp(12): warning C4715: 'factorial': not all control paths return a value
+  lab2.vcxproj -> D:\hoc tap\huong doi tuong\Debug\lab2.exe
